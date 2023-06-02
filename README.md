@@ -37,3 +37,6 @@ Make sure your *main* branch is up to date with your most recent code.
 # Links
 
 https://www.youtube.com/watch?v=FgnxcUQ5vho&t=260s
+
+# Tests
+![Screen Shot 2023-06-02 at 3 06 03 PM](https://github.com/codexwithg/Lab-05a/assets/128838992/08162d60-461e-4787-a286-75329ee582ad)
